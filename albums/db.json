@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "name": "Hulk",
+      "name": "Avengers Album 2",
       "thumbnail": "https://www.tvovermind.com/wp-content/uploads/2019/11/Hulk-750x390.jpg",
       "photos": [
         {
@@ -28,3 +28,63 @@
     }
   ]
 }
+{
+  "id": 3,
+  "name": "Avengers Album 3",
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/617kac3Q3dL._SX394_BO1,204,203,200_.jpg",
+  "photos": [
+    {
+      "name": "Iron Man",
+      "thumbnail": "https://img.rasset.ie/0013bc7e-800.jpg"
+    },
+    {
+      "name": "Black Panther",
+      "thumbnail": "https://www.nme.com/wp-content/uploads/2020/09/090220-Black-Panther-Chadwick-Boseman-Disney-1392x884.jpg"
+    }
+  ]
+},
+{
+  "id": 4,
+  "name": "Avengers Album 4",
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/617kac3Q3dL._SX394_BO1,204,203,200_.jpg",
+  "photos": [
+    {
+      "name": "Iron Man",
+      "thumbnail": "https://img.rasset.ie/0013bc7e-800.jpg"
+    },
+    {
+      "name": "Black Panther",
+      "thumbnail": "https://www.nme.com/wp-content/uploads/2020/09/090220-Black-Panther-Chadwick-Boseman-Disney-1392x884.jpg"
+    }
+  ]
+},
+{
+  "id": 5,
+  "name": "Avengers Album 5",
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/617kac3Q3dL._SX394_BO1,204,203,200_.jpg",
+  "photos": [
+    {
+      "name": "Iron Man",
+      "thumbnail": "https://img.rasset.ie/0013bc7e-800.jpg"
+    },
+    {
+      "name": "Black Panther",
+      "thumbnail": "https://www.nme.com/wp-content/uploads/2020/09/090220-Black-Panther-Chadwick-Boseman-Disney-1392x884.jpg"
+    }
+  ]
+},
+{
+  "id": 6,
+  "name": "Avengers Album 6",
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/617kac3Q3dL._SX394_BO1,204,203,200_.jpg",
+  "photos": [
+    {
+      "name": "Iron Man",
+      "thumbnail": "https://img.rasset.ie/0013bc7e-800.jpg"
+    },
+    {
+      "name": "Black Panther",
+      "thumbnail": "https://www.nme.com/wp-content/uploads/2020/09/090220-Black-Panther-Chadwick-Boseman-Disney-1392x884.jpg"
+    }
+  ]
+},
