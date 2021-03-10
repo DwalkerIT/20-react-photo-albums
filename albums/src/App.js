@@ -10,7 +10,7 @@ import AlbumDetail from './pages/AlbumDetail'
 export default function App() {
   return (
     <Router>
-      <div>
+      <div className="page">
         <Switch>
           <Route exact path="/" component={Album}></Route>
           <Route path="/detail/:id" component={AlbumDetail}></Route>
