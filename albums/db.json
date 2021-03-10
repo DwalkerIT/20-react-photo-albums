@@ -23,72 +23,73 @@
         {
           "name": "Captain Marvel",
           "thumbnail": "https://i.redd.it/34kubff7cnd21.jpg"
-        }
+        },
         {
           "name": "Hulk",
           "thumbnail": "https://www.tvovermind.com/wp-content/uploads/2019/11/Hulk-750x390.jpg"
         }
       ]
+    },
+
+    {
+      "id": 3,
+      "name": "Avengers Album 3",
+      "thumbnail": "https://i.imgur.com/nWGRHjS.jpeg",
+      "photos": [
+        {
+          "name": "Spider Man",
+          "thumbnail": "https://images.hindustantimes.com/tech/img/2020/11/08/960x540/marvel-spider-man-miles-morales-iz-1920x1080-1_1604822430507_1604822439361.jpg"
+        },
+        {
+          "name": "Thor",
+          "thumbnail": "https://static.wikia.nocookie.net/disney/images/4/4a/Thor_Odinson_TDW_poster_textless.jpg/revision/latest/top-crop/width/360/height/450?cb=20130615173905"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Avengers Album 4",
+      "thumbnail": "https://cdn.pressstart.com.au/wp-content/uploads/2020/08/Marvels-Avengers-770x433.jpg",
+      "photos": [
+        {
+          "name": "Vision",
+          "thumbnail": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/06/Paul-Bettany-as-Vision-in-Captain-America-Civil-War.jpg"
+        },
+        {
+          "name": "Falcon",
+          "thumbnail": "https://www.pngfind.com/pngs/m/94-946520_captain-falcon-png-falcon-marvel-avengers-alliance-transparent.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Avengers Album 5",
+      "thumbnail": "https://media.comicbook.com/2019/03/marvel-heroes-avengers-1161689-1280x0.jpeg",
+      "photos": [
+        {
+          "name": "Hawkeye",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png"
+        },
+        {
+          "name": "Ant-Man",
+          "thumbnail": "https://wegotthiscovered.com/wp-content/uploads/2018/05/Ant-Man-Avengers-4-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Avengers Album 6",
+      "thumbnail": "https://www.hitc.com/static/uploads/2020/09/Is-the-Marvels-Avengers-game-open-world-All-the-playable-characters-confirmed-and-leaked-1024x576.jpg",
+      "photos": [
+        {
+          "name": "Star-Lord",
+          "thumbnail": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/96/Star-Lord_AIW_Profile.jpg/revision/latest?cb=20180518211942"
+        },
+        {
+          "name": "Rocket Racoon",
+          "thumbnail": "https://boundingintocomics.com/wp-content/uploads/2019/03/2019.03.28-08.43-boundingintocomics-5c9d320567d54.png"
+        }
+      ]
     }
   ]
 }
-{
-  "id": 3,
-  "name": "Avengers Album 3",
-  "thumbnail": "https://i.imgur.com/nWGRHjS.jpeg",
-  "photos": [
-    {
-      "name": "Spider Man",
-      "thumbnail": "https://images.hindustantimes.com/tech/img/2020/11/08/960x540/marvel-spider-man-miles-morales-iz-1920x1080-1_1604822430507_1604822439361.jpg"
-    },
-    {
-      "name": "Thor",
-      "thumbnail": "https://static.wikia.nocookie.net/disney/images/4/4a/Thor_Odinson_TDW_poster_textless.jpg/revision/latest/top-crop/width/360/height/450?cb=20130615173905"
-    }
-  ]
-},
-{
-  "id": 4,
-  "name": "Avengers Album 4",
-  "thumbnail": "https://cdn.pressstart.com.au/wp-content/uploads/2020/08/Marvels-Avengers-770x433.jpg",
-  "photos": [
-    {
-      "name": "Vision",
-      "thumbnail": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/06/Paul-Bettany-as-Vision-in-Captain-America-Civil-War.jpg"
-    },
-    {
-      "name": "Falcon",
-      "thumbnail": "https://www.pngfind.com/pngs/m/94-946520_captain-falcon-png-falcon-marvel-avengers-alliance-transparent.png"
-    }
-  ]
-},
-{
-  "id": 5,
-  "name": "Avengers Album 5",
-  "thumbnail": "https://media.comicbook.com/2019/03/marvel-heroes-avengers-1161689-1280x0.jpeg",
-  "photos": [
-    {
-      "name": "Hawkeye",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png"
-    },
-    {
-      "name": "Ant-Man",
-      "thumbnail": "https://wegotthiscovered.com/wp-content/uploads/2018/05/Ant-Man-Avengers-4-1.jpg"
-    }
-  ]
-},
-{
-  "id": 6,
-  "name": "Avengers Album 6",
-  "thumbnail": "https://www.hitc.com/static/uploads/2020/09/Is-the-Marvels-Avengers-game-open-world-All-the-playable-characters-confirmed-and-leaked-1024x576.jpg",
-  "photos": [
-    {
-      "name": "Star-Lord",
-      "thumbnail": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/96/Star-Lord_AIW_Profile.jpg/revision/latest?cb=20180518211942"
-    },
-    {
-      "name": "Rocket Racoon",
-      "thumbnail": "https://boundingintocomics.com/wp-content/uploads/2019/03/2019.03.28-08.43-boundingintocomics-5c9d320567d54.png"
-    }
-  ]
-},
