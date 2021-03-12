@@ -63,27 +63,6 @@ export default function AlbumDetail(props) {
             : null}
         </div>
       </div>
-      {modalPhoto ? (
-        <p></p>
-      ) : // <Modal onClick={handleClose}>
-      //   <div className="modal-info">
-      //     <h2>{modalPhoto.name}</h2>
-      //     <img src={modalPhoto.thumbnail} />
-      //     <span
-      //       className="modal-left-arrow"
-      //       onClick={(e) => handleIndexShift(e, 0)}
-      //     >
-      //       &larr;
-      //     </span>
-      //     <span
-      //       className="modal-right-arrow"
-      //       onClick={(e) => handleIndexShift(e, 1)}
-      //     >
-      //       &rarr;
-      //     </span>
-      //   </div>
-      // </Modal>
-      null}
     </div>
   );
 }

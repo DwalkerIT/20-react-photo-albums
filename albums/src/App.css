@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 html {
@@ -33,13 +34,58 @@ body {
 }
 
 .card-item {
+  margin: 0 auto;
+
   /* width: 200px */
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   position: relative;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 250px;
+  /* 
+  align-items: center; */
 }
 
 .card-image {
   width: 200px;
   height: 200px;
   background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.album-detail-grid {
+  display: grid;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  border: 1px solid white;
+}
+
+.album-nav {
+  border: 1px solid white;
+}
+
+.album-nav-item {
+  border-right: 2px solid black;
+  padding: 20px;
+}
+.album-nav-item:link {
+  text-decoration: none;
+}
+.album-detail-main {
+  border: 1px solid white;
+  display: flex;
+}
+
+.card-title {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  text-align: bottom center;
+  border: 1px solid black;
 }
